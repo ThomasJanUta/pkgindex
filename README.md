@@ -22,10 +22,12 @@ Start your search at https://pkgindex.com.
 
 ## Data Snapshots
 
-Download the latest data snapshots for your own analysis and research:
+Download data snapshots for your own analysis and research:
 
-- Most Popular JavaScript Front-End Frameworks in 2024: [browse blog and graphs](https://pkgindex.com/blog/best-javascript-front-end-frameworks) | [download data](/data/javascript-front-end-frameworks.csv)
-- Most Popular React UI Component Frameworks in 2024: [browse blog and graphs](https://pkgindex.com/blog/react-top-ui-component-frameworks) | [download data](/data/react-ui-component-frameworks.csv)
+- Most Popular JavaScript Front-End Frameworks in 2024: [browse blog and graphs](https://pkgindex.com/blog/best-javascript-front-end-frameworks) | [download data](/data/javascript-front-end-frameworks)
+- Most Popular React UI Component Frameworks in 2024: [browse blog and graphs](https://pkgindex.com/blog/react-top-ui-component-frameworks) | [download data](/data/react-ui-component-frameworks)
+
+If you find the data valuable and helpful for your use case, please provide feedback in this issue: [Feedback on data snapshots](https://github.com/pkgidx/pkgindex/issues/2). Snapshots in this repository will be discontinued at some point.
 
 Download data for any other project with the [sponsor tier](https://pkgindex.com/pricing).
 Get API access with the [developer API](https://pkgindex.com/pricing).
